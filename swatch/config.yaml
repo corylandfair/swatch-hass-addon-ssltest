@@ -1,10 +1,10 @@
-name: Swatch
+name: Swatch Test SSL
 version: "3.1.0-2717ec6"
 panel_icon: "mdi:palette"
 panel_title: Swatch
 slug: swatch
 description: Color detection in images to capture presense of known objects.
-url: "https://github.com/NickM-27/swatch"
+url: "https://github.com/corylandfair/swatch_skip_ssl"
 image: crzynik/swatch
 startup: application
 boot: auto
