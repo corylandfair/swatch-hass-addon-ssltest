@@ -1,5 +1,5 @@
 name: Swatch Test SSL
-version: "1.0.0"
+version: "latest"
 panel_icon: "mdi:palette"
 panel_title: Swatch
 slug: swatch
